@@ -83,13 +83,16 @@ Good leadership takes a lot of time. It is often not possible to lead well if le
 
 ## Address Conflict of Interest with Feedback Process
 
-A conflict of interest is a situation in which the leader (or one of their team members) has a private or personal interest, directly or indirectly, that (potentially) influences or appears to influence the objective of their duties as a leader, to the detriment or benefit of the team.
+A Conflict of Interest (CoI) is a situation in which the leader (or one of their team members) has a private or personal interest, directly or indirectly, that (potentially) influences or appears to influence the objective of their duties as a leader, to the detriment or benefit of the team.
 
 If a person participates in several projects or spaces (professional or personal), they will likely have overlapping interests.
 Based on the nature of their roles in those projects, the nature of their relationship with different project teams (sometimes with overlapping groups of people) will differ.
 It is the core responsibility of individuals to identify and declare their Conflict of Interest proactively.
 They should make it clear in what capacity or in what role (from the multiple 'hats' they wear) they are operating.
-They should separate the conversations to avoid confusion for people they work with and if needed, they should step away from a situation, transferring the leadership responsibilities to others.
+Sometimes, CoI can be unavoidable and some overlapping interests can be infact useful for all parties involved. 
+What's important is that people with CoI declare and be clear about what that might mean to the project, team or the organisation. 
+
+If they can, they should separate the conversations to avoid confusion for people they work with and if needed, they should step away from a situation, transferring the leadership responsibilities to others.
 In [this video](https://www.youtube.com/watch?v=HQjRnWVmL28), Carol Willing explains how it is critical to abstain from decisions as a leader when you have a conflict of interest.
 
 ## Learning from mistakes 
