@@ -33,7 +33,7 @@ def update_citation_file(citation_file_path):
 
     file_content["version"] = f"{major}.{minor}.{tiny}"
 
-    file_content["date-released"] = datetime.today().strftime("%Y-%m-%d")
+    file_content["date-released"] = datetime.now().strftime("%Y-%m-%d")
 
     with open(citation_file_path, "w") as fp:
         yaml.dump(file_content, fp)
